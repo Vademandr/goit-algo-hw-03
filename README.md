@@ -38,7 +38,7 @@ Write a Python program that uses recursion to create a "Koch snowflake" fractal,
 
 Write a program that performs the movement of disks from rod `A` to rod `C`, using rod `B` as auxiliary. The disks have different sizes and are initially placed on the starting rod in decreasing order of size from top to bottom.
 
-![Preview](./assets/task1.png)
+![Preview](./assets/task3.png)
 
 **Rules:**
 
